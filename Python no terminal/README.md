@@ -2,12 +2,12 @@
 Fiz um jogo da velha em Python, que pode mudar de tamanho.
 
 ## Tela inicial
-[<img src="https://raw.githubusercontent.com/gabriel-gregorio-da-silva/jogo-da-velha-no-terminal/master/imagens/print%202.png">]
+[<img src="https://github.com/gabrielogregorio/jogo_da_velha/blob/master/Python%20no%20terminal/imagens/print%202.png">]
 
 - - -
 
 ## Podemos alterar o valor da variável global "tamanho" para aumentarmos o tamanho da tela atual
-[<img src="https://raw.githubusercontent.com/gabriel-gregorio-da-silva/jogo-da-velha-no-terminal/master/imagens/print%201.png">](#)
+[<img src="https://github.com/gabrielogregorio/jogo_da_velha/blob/master/Python%20no%20terminal/imagens/print%201.png">](#)
 
 - - -
 
