@@ -8,7 +8,7 @@ Várias versões simples do jogo da velha em diferentes linguagens.
 - [Jogo da velha em Javascript](#Jogo-da-velha-em-Javascript)
 - [Jogo da velha em Python](#Jogo-da-velha-em-Python)
 - [Jogo da velha em Python com Tkinter](#Jogo-da-velha-em-Python-com-Tkinter)
-- [Jogo da velha no c++](#Jogo-da-velha-no-C++)
+- [Jogo da velha no c++](#Jogo-da-velha-no-Cplusplus)
 
 # Jogo da velha em Javascript  
 ![](https://github.com/gabrielogregorio/jogo_da_velha/blob/master/Javascript/print.png)
@@ -43,5 +43,5 @@ Jogo da velha simples que roda em diferentes plataformas.
 ### Tela do jogo
 [<img src="https://github.com/gabrielogregorio/jogo_da_velha/blob/master/Python%20com%20tkinter/game.png">](#)
 
-# Jogo da velha no C++
+# Jogo da velha no Cplusplus
 [<img src ="https://github.com/gabrielogregorio/jogo_da_velha/blob/master/cplusplus%20no%20cmd/jogo%20da%20velha%20simples%20em%20cplusplus.png">](#)
