@@ -43,5 +43,5 @@ Jogo da velha simples que roda em diferentes plataformas.
 ### Tela do jogo
 [<img src="https://github.com/gabrielogregorio/jogo_da_velha/blob/master/Python%20com%20tkinter/game.png">](#)
 
-# Jogo da velha no Cplusplus
+# Jogo da velha no C++
 [<img src ="https://github.com/gabrielogregorio/jogo_da_velha/blob/master/cplusplus%20no%20cmd/jogo%20da%20velha%20simples%20em%20cplusplus.png">](#)
